@@ -8,12 +8,11 @@ A full-stack **E-Commerce** web application built with the **MERN Stack** that a
 
 | Layer        | Technologies Used |
 |--------------|------------------|
-| Frontend     | React.js, Redux, Tailwind / CSS |
+| Frontend     | React.js,Tailwind / CSS |
 | Backend      | Node.js, Express.js |
 | Database     | MongoDB, MongoDB Atlas |
-| Authentication | JWT, BCrypt |
+| Authentication | JWT |
 | Media Storage | Cloudinary |
-| Deployment   | Render / Vercel / Netlify |
 
 ---
 
@@ -26,8 +25,7 @@ A full-stack **E-Commerce** web application built with the **MERN Stack** that a
 - 📸 **Product Image Upload** using Cloudinary  
 - 🛍️ **Admin Dashboard** for managing products and orders  
 - 🌐 **Responsive Design** for mobile & desktop  
-- ⚙️ **RESTful API Architecture**  
-- 🚀 Deployed with cloud database support  
+- ⚙️ **RESTful API Architecture**   
 
 ---
 
