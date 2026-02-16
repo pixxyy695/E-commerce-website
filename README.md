@@ -27,7 +27,7 @@ A full-stack **E-Commerce** web application built with the **MERN Stack** that a
 - 🌐 **Responsive Design** for mobile & desktop  
 - ⚙️ **RESTful API Architecture**   
 
----
+
 
 
 
